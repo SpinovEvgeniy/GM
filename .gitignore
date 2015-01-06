@@ -13,7 +13,7 @@ nbproject
 Thumbs.db
 
 # composer vendor dir
-/vendor
+# /vendor
 
 # composer itself is not needed
 composer.phar
@@ -27,3 +27,5 @@ phpunit.phar
 /phpunit.xml
 
 sftp-config.json
+
+/uploads
