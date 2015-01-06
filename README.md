@@ -50,6 +50,7 @@ CONFIGURATION
 
 ### Database
 
+Edit the file `config/db.php` with real data. Default DB name is `gm`.
 
+DB dump is located at /extras/dump.sql
 
-Edit the file `config/db.php` with real data. Default DB name is `gm`:
